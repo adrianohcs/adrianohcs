@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Adriano Henrique</h2>
 <p align="center">
 <a href="https://codesandbox.io/u/adrianohcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="adrianohcs" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/adriano-henrique-31b9b5195/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrianohcs" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/adrianohcs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrianohcs" height="20" width="20" /></a>
 
 <h3 align="left"> An enthusiast by nature.</h3>
 
