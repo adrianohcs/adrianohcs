@@ -5,7 +5,7 @@
 
 <h3 align="left"> An enthusiast by nature.</h3>
 
-- 🌱 I’m currently learning **HTML**, **JavaScript**, **Angular** and **CSS**.
+- 🌱 I’m currently learning **Angular**, **JavaScript**, **React** and **Java**.
 - :balloon: Fun fact: I'm an Electrical Engineer ⚡⚡
 - 📫 How you can reach me? **adriano.henrique.eng@gmail.com**
 
