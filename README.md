@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Salesforce**, **JavaScript**, **Vue** and **Ruby**.
 - :balloon: Fun fact: I'm an Electrical Engineer ⚡⚡
-- 📫 How you can reach me? <a href="mailto:adriano.henrique.eng@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adrianohcs" height="20" width="60" /></a> <a href="https://www.linkedin.com/in/adrianohcs/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adrianohcs" height="20" width="80" /></a> <a href="https://steamcommunity.com/id/adrianohcs/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-adrianohcs" height="20" width="60" /></a> <a href="https://psnprofiles.com/adrianohcs" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="psn-adrianohcs" height="20" width="90" /></a>
+- 📫 How you can reach me? <a href="mailto:adriano.henrique.eng@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adrianohcs" height="20" width="60" /></a> <a href="https://www.linkedin.com/in/adrianohcs/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adrianohcs" height="20" width="80" /></a> <a href="https://steamcommunity.com/id/adrianohcs/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-adrianohcs" height="20" width="60" /></a> <a href="https://psnprofiles.com/adrianohcs" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="psn-adrianohcs" height="20" width="90" /></a> <a href="https://xboxgamertag.com/search/adrianohcs" target="blank"><img align="center" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="xbox-adrianohcs" height="20" width="60" /></a>
 
 **Languages and tools:**
 <p align="left">
@@ -17,7 +17,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="my-sql" width="20" height="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="20" height="20"/></p><p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>
+</p><p align="center">
 </p>
 
 **Currently learning:**
