@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Adriano Henrique</h2>
+<h2 align="center">Hi, I'm Adriano Henrique!</h2>
 <p align="center">
 
 <h3 align="left"> An enthusiast by nature.</h3>
